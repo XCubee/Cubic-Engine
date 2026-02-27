@@ -9,7 +9,7 @@ A simple, extensible Python automation . Easily add your own tasks and schedule 
 - See logs and output in your terminal
 
 ## Getting Started
-
+ 
 ### 1. Install Requirements
 ```
 pip install -r requirements.txt
