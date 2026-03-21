@@ -5,7 +5,7 @@ A simple, extensible Python automation . Easily add your own tasks and schedule 
 ## Features
 - Schedule any Python function to run at specific times or intervals
 - Add new tasks by simply creating a Python file in the `tasks/` directory
-- Configure all tasks in `config.json`
+- Configure all tasks in `config.json` 
 - See logs and output in your terminal
 
 ## Getting Started
